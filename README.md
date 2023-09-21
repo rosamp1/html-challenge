@@ -42,6 +42,7 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 
 Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.. Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
 
+Assitance on below provided by AskBCS Learning Assistant - Assistant name Sunshine.
 References
 The Mars News websiteLinks to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars NewsLinks to an external site. website in November 2022. Images are used according to the JPL Image Use PolicyLinks to an external site., courtesy NASA/JPL-Caltech.
 
